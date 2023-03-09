@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestOnboarding</string>
+    <string name="onboarding_title">Welcome to Ultra IPTV</string>
+    <string name="onboarding_text">
+        Lorem ipsum dolor sit amet, consectetur elit.\n
+        Morbi ultrices maximus dui, id imperdiet erat
+        sollicitudin mattis, morbi sed  ipsum.
+    </string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_continue">Continue</string>
+</resources>
