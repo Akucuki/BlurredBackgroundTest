@@ -72,7 +72,7 @@ fun OnboardingScreen(
             GradientButton(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(horizontal = 28.dp),
+                    .padding(start = 28.dp, end = 28.dp, bottom = 50.dp),
                 textId = R.string.onboarding_continue,
                 onClick = onContinueClick
             )
